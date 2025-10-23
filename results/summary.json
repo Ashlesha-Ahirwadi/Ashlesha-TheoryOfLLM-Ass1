@@ -1,0 +1,14 @@
+{
+  "baseline_acc": 1.0,
+  "role_cot_acc": 1.0,
+  "few_shot_acc": 1.0,
+  "self_consistency_acc": 0.6,
+  "meta_acc": 1.0,
+  "automated_best": {
+    "config": {
+      "style": "cot",
+      "temperature": 0.0
+    },
+    "score": 0.8
+  }
+}
