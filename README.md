@@ -264,17 +264,6 @@ Best config: {'style': 'cot', 'temperature': 0.0, 'score': 0.8}
 - [Anthropic Claude API Docs](https://docs.anthropic.com/)
 - [Google OPRO Paper](https://arxiv.org/abs/2309.03409)
 
----
-
-## 🧾 Grading Rubric Alignment
-
-| Category | Points | Evidence |
-|----------|--------|----------|
-| **Scoring Method Design & Implementation** | 15 pts | Numeric parser + accuracy function |
-| **Manual Prompt Engineering** | 25 pts | Baseline + 4 prompt types + analysis |
-| **Automated Prompt Optimization** | 50 pts | Hill-climb algorithm outperforming baseline |
-| **Reproducibility / Documentation** | 10 pts | Docker verified + clear README |
-| **Total** | **100 pts** | ✔ All criteria met |
 
 ---
 
